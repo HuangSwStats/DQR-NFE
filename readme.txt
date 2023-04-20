@@ -1,7 +1,7 @@
 The supplement materials include the following:
 
 For proof
-1. A supplement proof.pdf file for the proof of the main results in the paper,
+1. A supplement proof.pdf file for the proof of the main results in the paper.
 
 For simulation study (file folder named 'simulation')
 1. A data_generation.py file for the network data generation of the simulation study,
